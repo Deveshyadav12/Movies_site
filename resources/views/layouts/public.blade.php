@@ -8,6 +8,11 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886955702875635"
      crossorigin="anonymous"></script>
     <script src="//code.tidio.co/adxb4cp0vgwtpic1tx5bdpkqpoap5wrq.js" async></script>
+    <meta name="description" content="This is my awesome website about movies, tech, and more."> <!-- Description -->
+  <meta name="keywords" content="moviessite"> <!-- Keywords (optional) -->
+  <meta name="robots" content="index, follow"> <!-- Allow search engines to index -->
+  <meta name="author" content="Devesh">
+    <link rel="canonical" href=https://moviessite-production-1246.up.railway.app/">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
