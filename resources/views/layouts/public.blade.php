@@ -11,8 +11,10 @@
     <meta name="description" content="This is my awesome website about movies, tech, and more."> <!-- Description -->
   <meta name="keywords" content="moviessite"> <!-- Keywords (optional) -->
   <meta name="robots" content="index, follow"> <!-- Allow search engines to index -->
+    <meta name="google-site-verification" content="oMOxGoyawEYmaAEKOgzxMXgnOLx1VxCyKCc0BYbzEnQ" />
   <meta name="author" content="Devesh">
     <link rel="canonical" href=https://moviessite-production-1246.up.railway.app/">
+    
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
