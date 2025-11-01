@@ -44,7 +44,7 @@ class MovieController extends Controller
     // Show edit movie form
     public function edit(Movie $movie)
     {
-        return view('Admin.movie_edit', compact('movie'));
+        return view('admin.movie_edit', compact('movie'));
     }
 
     // Update a movie
