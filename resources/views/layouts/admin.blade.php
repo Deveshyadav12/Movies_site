@@ -8,6 +8,8 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886955702875635"
      crossorigin="anonymous"></script>
     <script src="//code.tidio.co/adxb4cp0vgwtpic1tx5bdpkqpoap5wrq.js" async></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886955702875635"
+     crossorigin="anonymous"></script>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
