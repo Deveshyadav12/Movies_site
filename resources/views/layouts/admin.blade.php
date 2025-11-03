@@ -8,17 +8,6 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886955702875635"
      crossorigin="anonymous"></script>
     <script src="//code.tidio.co/adxb4cp0vgwtpic1tx5bdpkqpoap5wrq.js" async></script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886955702875635"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5886955702875635"
-     data-ad-slot="1234567890"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 </head>
 <body>
