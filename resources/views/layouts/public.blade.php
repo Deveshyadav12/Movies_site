@@ -14,6 +14,8 @@
     <meta name="google-site-verification" content="oMOxGoyawEYmaAEKOgzxMXgnOLx1VxCyKCc0BYbzEnQ" />
   <meta name="author" content="Devesh">
     <link rel="canonical" href=https://moviessite-production-1246.up.railway.app/">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5886955702875635"
+     crossorigin="anonymous"></script>
     
 </head>
 <body>
